@@ -19,10 +19,6 @@ Also Google Colab Notebook for plug-n-play training and evaluation here [![Open 
 * [Usage](#usage)
 * [Results](#results)
 * [Datasets](#datasets)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 <!-- GETTING STARTED -->
